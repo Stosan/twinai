@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/twinai/static/css/main.1a00cb15.css",
+    "main.js": "/twinai/static/js/main.bff19c08.js",
+    "static/js/787.3c0cae28.chunk.js": "/twinai/static/js/787.3c0cae28.chunk.js",
+    "index.html": "/twinai/index.html",
+    "main.1a00cb15.css.map": "/twinai/static/css/main.1a00cb15.css.map",
+    "main.bff19c08.js.map": "/twinai/static/js/main.bff19c08.js.map",
+    "787.3c0cae28.chunk.js.map": "/twinai/static/js/787.3c0cae28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a00cb15.css",
+    "static/js/main.bff19c08.js"
+  ]
+}
